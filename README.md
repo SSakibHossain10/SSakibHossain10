@@ -13,7 +13,8 @@
 ## 🧑‍💻 About Me
 
 I’m Sakib, a Frontend Developer with 4 years of experience, including 2 years of job experience as a professional Frontend developer.  
-I specialize in building performant and scalable web applications using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.  
+I specialize in building performant and scalable web applications using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
+
 I focus on writing clean, maintainable code with attention to **performance**, **accessibility**, and **UI/UX**.  
 I'm experienced in building apps from scratch — including **complex state management**, **responsive design**, and **integration with modern APIs and backend services**.
 
